@@ -8,3 +8,13 @@
                 <b><a target="_blank" href="https://github.com/Khan3firoz/">Firoz khan</a></b>
         </samp>
 </h3>
+
+<p align="center"> 
+  <samp>
+    <a href="https://www.google.com/search?q=khan+3+firoz">Google Me</a>
+    <br>
+    「 I am a full stack web appplication developer from <b>India</b> 」
+    <br>
+    <br>
+  </samp>
+</p>
