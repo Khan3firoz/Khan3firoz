@@ -21,11 +21,11 @@
 
 <!-- Portfolio -->
 <p align="center">
- <a href="https://www.linkedin.com/in/firoz-khan-1bb432181/" target="blank">
+ <a href="" target="blank">
   <img src="https://img.shields.io/badge/Website-DC143C?style=for-the-badge&logo=medium&logoColor=white" alt="Firoz khan" />
  </a>
  <!-- Linkedin -->
- <a href="www.linkedin.com/in/firoz-khan-1bb432181" target="_blank">
+ <a href="https://www.linkedin.com/in/firoz-khan-1bb432181/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="firoz_linkdin"/>
  </a>
  <!-- Twitter -->
