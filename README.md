@@ -21,7 +21,7 @@
 
 <!-- Portfolio -->
 <p align="center">
- <a href="www.linkedin.com/in/firoz-khan-1bb432181" target="blank">
+ <a href="https://www.linkedin.com/in/firoz-khan-1bb432181" target="blank">
   <img src="https://img.shields.io/badge/Website-DC143C?style=for-the-badge&logo=medium&logoColor=white" alt="Firoz khan" />
  </a>
  <!-- Linkedin -->
